@@ -13,13 +13,25 @@ A predictable state management library that helps implement the [BLoC design pat
 | [dartz](https://pub.dev/packages/dartz)                         | [![pub package](https://img.shields.io/pub/v/bloc.svg)](https://github.com/spebbe/dartz)   
 
 ---
-## Getting Started
+## Setup
 
+Clone the repo
+``` 
+$ git clone [https://github.com/joshuadeguzman/flutter-examples](https://github.com/pnvanh/flutter_base)
+```
+Select a project
+``` 
+$ cd <project_name>
+```
+Install packages
+``` 
+$ flutter pub get
+```
 Run stating
 ``` 
-flutter run --debug --flavor staging
+$ flutter run --debug --flavor staging
 ```
 Run product
 ```
-flutter run --release --flavor product
+$ flutter run --release --flavor product
 ```
