@@ -1,20 +1,18 @@
 # Flutter skeleton
 
-A Flutter basic project.
+A Flutter basic project with BloC.
 
-## Getting Started
+## Package
+A predictable state management library that helps implement the [BLoC design pattern]
+| Package                                                                                    | Pub                                                                                                                  |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| [bloc](https://github.com/felangel/bloc/tree/master/packages/bloc)                         | [![pub package](https://img.shields.io/pub/v/bloc.svg)](https://pub.dev/packages/bloc)                               |
+| [flutter_bloc](https://github.com/felangel/bloc/tree/master/packages/flutter_bloc)                         | [![pub package](https://img.shields.io/pub/v/bloc.svg)](https://pub.dev/packages/flutter_bloc)     
+| [equatable](https://pub.dev/packages/equatable)                         | [![pub package](https://img.shields.io/pub/v/bloc.svg)](https://github.com/felangel/equatable)   
+| [http](https://pub.dev/packages/http)                         | [![pub package](https://img.shields.io/pub/v/bloc.svg)](https://github.com/dart-lang/http/tree/master/pkgs/http)   
+| [dartz](https://pub.dev/packages/dartz)                         | [![pub package](https://img.shields.io/pub/v/bloc.svg)](https://github.com/spebbe/dartz)   
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+---
 ## Getting Started
 
 Run stating
