@@ -15,6 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-USAGE:
-Start staging
-    flutter run --debug --flavor staging
+## Getting Started
+
+Run stating
+``` 
+flutter run --debug --flavor staging
+```
+Run product
+```
+flutter run --release --flavor product
+```
