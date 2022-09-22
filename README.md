@@ -1,6 +1,6 @@
-# flutter_base
+# Flutter skeleton
 
-A new Flutter project.
+A Flutter basic project.
 
 ## Getting Started
 
