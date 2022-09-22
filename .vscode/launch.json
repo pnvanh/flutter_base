@@ -5,21 +5,16 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "flutter_base",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "flutter_base (profile mode)",
+            "name": "staging",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "profile"
+            "args": ["--debug --flavor", "staging"]
         },
         {
-            "name": "flutter_base (release mode)",
+            "name": "product",
             "request": "launch",
             "type": "dart",
-            "flutterMode": "release"
+            "args": ["--release --flavor", "product"]
         }
     ]
 }
